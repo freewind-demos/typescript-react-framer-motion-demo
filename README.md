@@ -1,11 +1,11 @@
-TypeScript React Hello World Demo
+TypeScript React Framer Motion Demo
 =================================
 
-一个最简单的Typescript + react项目，使用了webpack
+使用Framer Motion来实现动态效果
 
 ```
 npm install
-npm run demo
+npm start
 ```
 
 It will open page on browser automatically.
